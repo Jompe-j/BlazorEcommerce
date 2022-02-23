@@ -63,11 +63,23 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
-fabric.properties
+fabric.propertiesj
 
 # Editor-based Rest Client
 .idea/httpRequests
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+
+obj/
+bin/
+log/
+debug/
+debug/public/
+release/
+releases/
+x64/
+x86/
+bld/
+
 
